@@ -1,4 +1,6 @@
 # Python-Project1
+Click on code and download the project as zip file
+
 My First project on python was about extracting the seller data of various products over websites and report it to the company.
 
 I have worked on two major weebsites the codes for both are in the repository. you can also see the code in jpg image if you dont want to open the python code file.
